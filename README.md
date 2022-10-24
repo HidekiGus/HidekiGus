@@ -22,6 +22,7 @@
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazon-aws)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
 <!---
 HidekiGus/HidekiGus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
