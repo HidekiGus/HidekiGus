@@ -1,8 +1,12 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Esse+é+o+meu+perfil!;Curiosidade:+Amo+back-end+⚙️)](https://git.io/typing-svg)
+
 - 👋 Hi, I’m @HidekiGus
 - 👀 I’m interested in Games.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on everything I can learn from.
 - 📫 How to reach me: Send me a message!
+
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidekiGus)](https://github.com/anuraghazra/github-readme-stats)
