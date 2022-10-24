@@ -1,17 +1,23 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Bem+vindo+ao+meu+perfil!;)](https://git.io/typing-svg)
 
-- 👋 Hi, I’m @HidekiGus
-- 👀 I’m interested in Games.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on everything I can learn from.
-- 📫 How to reach me: Send me a message!
+## 👨‍💻 Sobre mim
 
+- 👋 Olá, sou o Gustavo, mas pode me chamar de Gus!
+- 👨‍🎓 Estou estudando para ser um Desenvolvedor Web FullStack.
+- 🌱 Curiosidade: Gosto muito de cozinhar e descobrir receitas, tanto que criei o <link>.
+- 💞️ I’m looking to collaborate on everything I can learn from.
+
+
+## 📫 Onde me achar?
+
+<a target="_blank" href="https://www.linkedin.com/in/gustavo-hideki-guenka-vale"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:gustavohidekiguenka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidekiGus)](https://github.com/anuraghazra/github-readme-stats)
 
-## 💻 Skills
+## 💻 Habilidades
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
