@@ -18,12 +18,16 @@
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-      components&logoColor=white)
 
 ### Back-end
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
+![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+
 
 ### Banco de dados
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
@@ -44,6 +48,8 @@
 <a target="_blank" href="mailto:gustavohidekiguenka@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
 
 
+
+[![wakatime](https://wakatime.com/badge/user/0e755f10-7f5f-49f6-8a24-87ba279bf946.svg)](https://wakatime.com/@0e755f10-7f5f-49f6-8a24-87ba279bf946)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidekiGus)](https://github.com/anuraghazra/github-readme-stats)
 
