@@ -1,11 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Bem+vindo+ao+meu+perfil!;)](https://git.io/typing-svg)
+<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!+Bem+vindo+ao+meu+perfil!;)](https://git.io/typing-svg)</p>
 
 ## 👨‍💻 Sobre mim
 
 - 👋 Olá, sou o Gustavo, mas pode me chamar de Gus!
 - 👨‍🎓 Estou estudando para ser um Desenvolvedor Web FullStack.
 - 🌱 Curiosidade: Gosto muito de cozinhar e descobrir receitas, tanto que criei o <link>.
-- 💞️ I’m looking to collaborate on everything I can learn from.
 
 
 ## 📫 Onde me achar?
