@@ -49,8 +49,6 @@
 
 
 
-[![wakatime](https://wakatime.com/badge/user/0e755f10-7f5f-49f6-8a24-87ba279bf946.svg)](https://wakatime.com/@0e755f10-7f5f-49f6-8a24-87ba279bf946)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidekiGus)](https://github.com/anuraghazra/github-readme-stats)
 
 
