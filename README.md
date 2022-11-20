@@ -52,7 +52,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HidekiGus)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aemmadi&hide=TeX&layout=compact)
 
 <!---
 HidekiGus/HidekiGus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
