@@ -7,7 +7,7 @@
 - 👋 Olá, sou o Gustavo, mas pode me chamar de Gus!
 - 👨‍🎓 Estou estudando para ser um Desenvolvedor Web FullStack.
 - 🛠️ Amo ser dev porque é possível fazer muita coisa com programação!
-- 🌱 Curiosidade: Gosto muito de cozinhar e descobrir receitas, tanto que criei o ![Livro de Receitas]( https://github.com/HidekiGus/livro-de-receitas-back).
+- 🌱 Curiosidade: Gosto muito de cozinhar e descobrir receitas, tanto que criei o [Livro de Receitas]( https://github.com/HidekiGus/livro-de-receitas-back).
 
 
 
